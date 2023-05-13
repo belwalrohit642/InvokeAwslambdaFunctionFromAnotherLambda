@@ -1,5 +1,5 @@
 
-#Two Major Policy for lambdaInvoker - lambdabasicExecutionRole and below role lambdainvokefunction and lambdainvokesync
+#Two Major IAM Policy for lambdaInvoker - lambdabasicExecutionRole and below role lambdainvokefunction and lambdainvokesync
 #Attached these policy to  lambdainvokerfunction
 
 
